@@ -1,4 +1,4 @@
-[Docker Image](https://hub.docker.com/r/pnrt/tasks-spring-boot-app)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](https://hub.docker.com/r/pnrt/tasks-spring-boot-app)
 ### **Spring Boot with Kotlin - Microservices & CRUD Operations**
 
 This guide covers the basics of microservices in **Spring Boot with Kotlin**, including **CRUD operations** with **PostgreSQL**, **CSV files**, and **normal text files**.
