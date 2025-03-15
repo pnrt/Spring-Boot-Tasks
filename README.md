@@ -1,3 +1,4 @@
+[Docker Image](https://hub.docker.com/r/pnrt/tasks-spring-boot-app)
 ### **Spring Boot with Kotlin - Microservices & CRUD Operations**
 
 This guide covers the basics of microservices in **Spring Boot with Kotlin**, including **CRUD operations** with **PostgreSQL**, **CSV files**, and **normal text files**.
